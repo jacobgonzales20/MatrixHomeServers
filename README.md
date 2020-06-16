@@ -3,9 +3,8 @@
 
 If you would like your homeserver added simply make a issue on the git
 
-Matrix.org <br />
+Matrix.org (Mastodon - @matrix@mastodon.matrix.org) <br />
 https://matrix-client.matrix.org
-(Mastodon - @matrix@mastodon.matrix.org)
 
 Privacytools.io (Mastodon - @privacytools@social.privacytools.io) <br />
 https://chat.privacytools.io
