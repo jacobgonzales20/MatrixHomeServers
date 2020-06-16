@@ -13,4 +13,4 @@ Pine64 (Mastodon - @PINE64@fosstodon.org)
 https://matrix.pine64.org/
 
 Fairydust.space (Mastodon - @fairydust_space@chaos.social)
-https://fairydust.space 
+https://fairydust.space
