@@ -3,11 +3,14 @@
 
 If you would like your homeserver added simply make a issue on the git
 
-[Matrix.org](https://matrix-client.matrix.org) (Mastodon - @matrix@mastodon.matrix.org)
+Matrix.org (Mastodon - @matrix@mastodon.matrix.org)
+https://matrix-client.matrix.org
 
+Privacytools.io (Mastodon - @privacytools@social.privacytools.io)
+https://chat.privacytools.io
 
-[Privacytools.io](https://chat.privacytools.io) (Mastodon - @privacytools@social.privacytools.io)
+Pine64 (Mastodon - @PINE64@fosstodon.org)
+https://matrix.pine64.org/
 
-[Pine64](https://matrix.pine64.org/) (Mastodon - @PINE64@fosstodon.org)
-
-[Fairydust.space](https://fairydust.space) (Mastodon - @fairydust_space@chaos.social)
+Fairydust.space (Mastodon - @fairydust_space@chaos.social)
+https://fairydust.space 
